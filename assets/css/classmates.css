@@ -45,6 +45,20 @@
     opacity: 0.7; 
 }
 
+.primary-button-pdf {
+    background-color: #18d26e;
+    color: white;
+    margin-top: 50px;
+    margin-left: 220px;
+    margin-bottom: 175px;
+    padding: 30px;
+    border-radius: 4px; 
+    text-decoration: none;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    opacity: 0.7; 
+}
 
 
 
